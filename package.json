@@ -2,6 +2,7 @@
   "name": "invitation-card",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gehad33.github.io/innovation-card",
   "dependencies": {
     "cra-template": "1.3.0",
     "framer-motion": "^12.41.0",
@@ -14,14 +15,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
@@ -34,10 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.5.2",
-    "postcss": "^8.5.15",
-    "tailwindcss": "^3.4.19"
   }
 }
