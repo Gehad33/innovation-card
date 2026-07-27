@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7f8754e.css",
-    "main.js": "/static/js/main.5cd457b5.js",
-    "static/js/488.c00d3103.chunk.js": "/static/js/488.c00d3103.chunk.js",
-    "index.html": "/index.html",
-    "main.a7f8754e.css.map": "/static/css/main.a7f8754e.css.map",
-    "main.5cd457b5.js.map": "/static/js/main.5cd457b5.js.map",
-    "488.c00d3103.chunk.js.map": "/static/js/488.c00d3103.chunk.js.map"
+    "main.css": "/innovation-card/static/css/main.a7f8754e.css",
+    "main.js": "/innovation-card/static/js/main.619e1aff.js",
+    "static/js/488.c00d3103.chunk.js": "/innovation-card/static/js/488.c00d3103.chunk.js",
+    "index.html": "/innovation-card/index.html",
+    "main.a7f8754e.css.map": "/innovation-card/static/css/main.a7f8754e.css.map",
+    "main.619e1aff.js.map": "/innovation-card/static/js/main.619e1aff.js.map",
+    "488.c00d3103.chunk.js.map": "/innovation-card/static/js/488.c00d3103.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7f8754e.css",
-    "static/js/main.5cd457b5.js"
+    "static/js/main.619e1aff.js"
   ]
 }
